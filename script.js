@@ -1,3 +1,1 @@
-<script>
-  var i = 0;
-  </script>
+<script>var i = 0;</script>;
